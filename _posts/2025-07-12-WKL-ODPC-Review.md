@@ -1,7 +1,7 @@
 ---
 
 title: "Offensive Development Practitioner Certification (ODPC) WKL - Review"
-date: 2025-07-12 13:00:00 +0800
+date: 2025-12-7 13:00:00 +0800
 categories: [Malware devolopment, Red team]
 tags: [Red team, Malware devolopment]
 

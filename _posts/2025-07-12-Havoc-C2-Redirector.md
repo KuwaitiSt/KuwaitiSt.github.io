@@ -1,13 +1,13 @@
 ---
 title: "Havoc C2 Redirector"
-date: 2025-07-12 00:00:00 +0800
+date: 2025-7-15 00:00:00 +0800
 categories: [Red team]
 tags: [Red team]
 ---
 
 ## ./Whoami
 
-Hey everyone! My name is Abdullah. I’m here to keep improving  growing my skills and becoming a better writer. I write these blogs to share what I discover and to document my progress. I hope you find something helpful here, and I look forward to learning and improving together!
+Hey everyone! I’m here to keep improving  growing my skills and becoming a better writer. I write these blogs to share what I discover and to document my progress. I hope you find something helpful here, and I look forward to learning and improving together!
 
 ![Banner](/images/133753c4-e1c8-4b36-879c-bf5d436f78b8_text.gif)
 
