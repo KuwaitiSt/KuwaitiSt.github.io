@@ -3,6 +3,8 @@
 icon: fas fa-info-circle
 order: 4
 ---
+Red teamer/MalwareDev
+## Contact info
+Email : abdullahalrashidi0xff@gmail.com
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+LinkedIn : [Abdullah Alrashidi](https://www.linkedin.com/in/abdullah-alrashidi-4bb1563a7/)
