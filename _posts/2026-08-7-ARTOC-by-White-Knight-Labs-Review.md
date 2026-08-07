@@ -20,7 +20,7 @@ WKL labs are hands down the best in the market. They provide you access to the b
 
 ## The Content
 
-The course covers the full spectrum: C2 setup, cloud-based redirectors using CDNs and serverless functions, initial access, lateral movement, Active Directory and ADCS exploitation and **kernel** and user-mode evasion. It also explain in detail how to customize Cobalt Strike malleable profiles, and how it plays a big role on detection. The content is delivered in markdown format through the portal, and it's detailed enough to follow without hand-holding while still being challenging. 
+The course covers the full spectrum: C2 setup, cloud-based redirectors using CDNs and serverless functions, initial access, lateral movement, Active Directory and ADCS exploitation and **kernel** and user-mode evasion. It also explain in detail how to customize Cobalt Strike malleable profiles, and how it plays a big role on detection. The content is delivered in markdown format through the portal, and it's detailed enough to follow without hand-holding while still being challenging. You can check out the full course and what it covers [here](https://training.whiteknightlabs.com/certifications/advanced-red-team-operations-certification/)
 
 ## The Exam
 
